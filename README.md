@@ -7,3 +7,6 @@ to make both more concise and readable. Alt attributes were added to images for 
 the length of the HTML and CSS code. All changes done while keeping the appearance of the client's website unchanged.
 
 Deployed Link:
+https://parariot.github.io/Challenge-1/
+
+Screenshot:
