@@ -10,3 +10,4 @@ Deployed Link:
 https://parariot.github.io/Challenge-1/
 
 Screenshot:
+![image](https://user-images.githubusercontent.com/103959907/172059352-0e67fe52-32be-406d-bfe1-f50f04f3f2f9.png)
