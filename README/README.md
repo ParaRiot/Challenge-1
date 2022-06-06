@@ -11,4 +11,5 @@ https://parariot.github.io/Challenge-1/
 https://github.com/ParaRiot/Challenge-1
 
 Screenshot:
-![image](https://user-images.githubusercontent.com/103959907/172059352-0e67fe52-32be-406d-bfe1-f50f04f3f2f9.png)
+![image](https://user-images.githubusercontent.com/103959907/172267608-2154c37c-02c2-4554-8c3c-7cc6a8400f29.png)
+
